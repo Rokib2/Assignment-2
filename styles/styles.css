@@ -47,5 +47,14 @@
 }
 .button{
     padding: 10px;
-    
+    align-items: center;
 }
+.Read-More{
+    color: #FFF;
+    background-color: #FF5400;
+    width: 170px;
+    height: 50px;
+    padding: 30px;
+    text-align: center;
+}
+
